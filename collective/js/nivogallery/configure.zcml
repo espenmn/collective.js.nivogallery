@@ -8,8 +8,8 @@
     i18n_domain="collective.js.nivogallery">
 
   <browser:resource
-    name="jquery.nivo.gallery.js"
-    file="resources/js/jquery.nivo.gallery.js"
+    name="jquery.nivo.gallery.min.js"
+    file="resources/js/jquery.nivo.gallery.min.js"
     />
  
   <browser:resourceDirectory
