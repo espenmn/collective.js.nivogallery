@@ -4,6 +4,8 @@
  <javascript 
     id="++resource++jquery.nivo.gallery.min.js"
     cacheable="True" compression="safe" cookable="False"
-    enabled="True" expression=""  inline="False" conditionalcomment=""/>
+    enabled="True" expression=""  inline="False" conditionalcomment=""
+    remove="True"
+    />
 
 </object>
