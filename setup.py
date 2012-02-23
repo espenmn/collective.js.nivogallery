@@ -5,7 +5,7 @@ version = '0.1dev'
 
 setup(name='collective.js.nivogallery',
       version=version,
-      description="JQuery pickachoose plugin as browser resource",
+      description="JQuery Nivogallery plugin as browser resource",
       long_description=open("README.txt").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from

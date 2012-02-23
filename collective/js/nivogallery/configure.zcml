@@ -9,7 +9,7 @@
 
   <browser:resource
     name="jquery.nivo.gallery.min.js"
-    file="resources/assets/js/jquery.nivo.gallery.min.js"
+    file="resources/js/jquery.nivo.gallery.min.js"
     />
  
   <browser:resourceDirectory
