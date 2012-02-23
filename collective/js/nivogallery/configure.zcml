@@ -8,8 +8,8 @@
     i18n_domain="collective.js.nivogallery">
 
   <browser:resource
-    name="jquery.nivo.gallery.min.js"
-    file="resources/js/jquery.nivo.gallery.min.js"
+    name="jquery.nivo.gallery.js"
+    file="resources/js/jquery.nivo.gallery.js"
     />
  
   <browser:resourceDirectory
@@ -19,9 +19,9 @@
 
   <genericsetup:registerProfile
       name="default"
-      title="collective.js.nivogallery default"
+      title="collective.js.nivo.gallery default"
       directory="profiles/default"
-      description='Install collective.js.nivogallery in Plone'
+      description='Install collective.js.nivo.gallery in Plone'
       provides="Products.GenericSetup.interfaces.EXTENSION"
   />
 
